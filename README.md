@@ -1,4 +1,4 @@
-# analuze-a-b-test
+# anayuze-a/b-test
 
 ### Udacity Data Analyst Nanodegree (DAND)
 
