@@ -1,6 +1,6 @@
 # analuze-a-b-test
 
-### Udacity Data Analyst Nanodegree (DAND) - Term 1 - Project 4
+### Udacity Data Analyst Nanodegree (DAND)
 
 ## Introduction
 
